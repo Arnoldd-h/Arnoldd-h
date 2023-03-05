@@ -1,7 +1,14 @@
-### Hi there 👋
+
+![giphy](https://user-images.githubusercontent.com/127006114/222943720-19aeb138-9413-40e1-a4c0-d5ba957569e1.gif)
+
+
 
 <!--
 **Arnoldd-h/Arnoldd-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+l
+
+
 
 Here are some ideas to get you started:
 
