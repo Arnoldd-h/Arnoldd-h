@@ -41,10 +41,16 @@
   🎮 You can start a <a href='https://www.chess.com/member/elrodrix'>♟Chess game</a> with me, my actual
 <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Felrodrix%2Fstats'/>
 
+## Programming Languages and Tools
+
+| Language/Tool | Description |
+| :---: | :--- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/48px-Python-logo-notext.svg.png"/> | I'm comfortable working with Python for various projects, including data analysis, machine learning, and web development using Flask and Django. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/48px-R_logo.svg.png"/> | I also have experience with R, particularly for data analysis and visualization. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/48px-Sql_data_base_with_logo.png"/> | I'm familiar with MySQL for managing and querying databases. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/48px-HTML5_logo_and_wordmark.svg.png"/> | I have a good understanding of HTML5, CSS3, and JavaScript for front-end web development. |
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/127006114/222953522-38c67a46-13d9-4c2b-80b2-3c1945dc8414.gif" alt="animated" width="400px">
-</p>
+
 
 
